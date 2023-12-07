@@ -1,0 +1,15 @@
+C:\Users\jimvi\OneDrive\Dokumente\Coding_new\C#_Unit-test\TempConvert\bin\Debug\net6.0\TempConvert.exe
+C:\Users\jimvi\OneDrive\Dokumente\Coding_new\C#_Unit-test\TempConvert\bin\Debug\net6.0\TempConvert.deps.json
+C:\Users\jimvi\OneDrive\Dokumente\Coding_new\C#_Unit-test\TempConvert\bin\Debug\net6.0\TempConvert.runtimeconfig.json
+C:\Users\jimvi\OneDrive\Dokumente\Coding_new\C#_Unit-test\TempConvert\bin\Debug\net6.0\TempConvert.dll
+C:\Users\jimvi\OneDrive\Dokumente\Coding_new\C#_Unit-test\TempConvert\bin\Debug\net6.0\TempConvert.pdb
+C:\Users\jimvi\OneDrive\Dokumente\Coding_new\C#_Unit-test\TempConvert\obj\Debug\net6.0\TempConvert.csproj.AssemblyReference.cache
+C:\Users\jimvi\OneDrive\Dokumente\Coding_new\C#_Unit-test\TempConvert\obj\Debug\net6.0\TempConvert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimvi\OneDrive\Dokumente\Coding_new\C#_Unit-test\TempConvert\obj\Debug\net6.0\TempConvert.AssemblyInfoInputs.cache
+C:\Users\jimvi\OneDrive\Dokumente\Coding_new\C#_Unit-test\TempConvert\obj\Debug\net6.0\TempConvert.AssemblyInfo.cs
+C:\Users\jimvi\OneDrive\Dokumente\Coding_new\C#_Unit-test\TempConvert\obj\Debug\net6.0\TempConvert.csproj.CoreCompileInputs.cache
+C:\Users\jimvi\OneDrive\Dokumente\Coding_new\C#_Unit-test\TempConvert\obj\Debug\net6.0\TempConvert.dll
+C:\Users\jimvi\OneDrive\Dokumente\Coding_new\C#_Unit-test\TempConvert\obj\Debug\net6.0\refint\TempConvert.dll
+C:\Users\jimvi\OneDrive\Dokumente\Coding_new\C#_Unit-test\TempConvert\obj\Debug\net6.0\TempConvert.pdb
+C:\Users\jimvi\OneDrive\Dokumente\Coding_new\C#_Unit-test\TempConvert\obj\Debug\net6.0\TempConvert.genruntimeconfig.cache
+C:\Users\jimvi\OneDrive\Dokumente\Coding_new\C#_Unit-test\TempConvert\obj\Debug\net6.0\ref\TempConvert.dll
